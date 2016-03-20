@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Main.CMPcbDoc   25/11/2015  6:14:04 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Main-RoundHoles.TXT
+ASCII SlotHoles File : Main-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          41               5.69 Inch (144.54 mm)
+T2        31.5mil (0.8001mm)       Slot           2                287.83 Inch (7310.78 mm)
+T3        49.21mil (1.24993mm)     Round          2         NPTH   0.18 Inch (4.50 mm)
+---------------------------------------------------------------------------
+Totals                                            45               293.69 Inch (7459.82 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
